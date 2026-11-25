@@ -61,10 +61,11 @@ Use of these services is governed by their own terms and privacy policies. When 
 
 ## 6. Launcher updates and Java downloads
 
-- The Launcher checks for a newer version in the project's official GitHub repository. If a newer version exists, the Launcher **offers** to update; the decision is yours.
+- The Launcher checks for a newer version in the project's official GitHub repository. In standard cases, the Launcher **offers** to update; the decision is yours.
+- In the event of critical security or compatibility updates (marked as Important Updates in the release notes) or significant version obsolescence (a version series gap of 50 or more points), the update becomes mandatory to ensure system security and multiplayer/service compatibility.
 - Updates are distributed via GitHub Releases. Download the Launcher only from the official repository: https://github.com/DIMAPLAY1221/klone-launcher
 - If the selected Minecraft version requires Java, the Launcher may download it from official sources. Java is a third-party product distributed under its owners' terms.
-- If you do not update, your installed copy will keep working locally, but we do not guarantee compatibility with new Minecraft versions and services.
+- If you do not install regular optional updates, your installed copy will keep working locally, but we do not guarantee compatibility with new Minecraft versions and services.
 
 ## 7. Disclaimer of warranties
 
